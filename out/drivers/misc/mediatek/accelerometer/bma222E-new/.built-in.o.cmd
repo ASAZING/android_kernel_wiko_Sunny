@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/accelerometer/bma222E-new/built-in.o :=  /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/misc/mediatek/accelerometer/bma222E-new/built-in.o drivers/misc/mediatek/accelerometer/bma222E-new/bma222E.o 

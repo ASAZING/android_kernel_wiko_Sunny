@@ -1,0 +1,1 @@
+cmd_arch/arm/crypto/sha2-arm-ce.o := /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o arch/arm/crypto/sha2-arm-ce.o arch/arm/crypto/sha2-ce-core.o arch/arm/crypto/sha2-ce-glue.o 

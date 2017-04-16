@@ -1,0 +1,1 @@
+cmd_sound/core/oss/built-in.o :=  /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o sound/core/oss/built-in.o sound/core/oss/snd-mixer-oss.o sound/core/oss/snd-pcm-oss.o 

@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/aee/mrdump/built-in.o :=  /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/misc/mediatek/aee/mrdump/built-in.o drivers/misc/mediatek/aee/mrdump/mrdump_arm.o drivers/misc/mediatek/aee/mrdump/mrdump_mini.o 

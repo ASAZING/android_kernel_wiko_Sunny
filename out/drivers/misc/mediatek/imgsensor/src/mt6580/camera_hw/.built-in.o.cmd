@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/imgsensor/src/mt6580/camera_hw/built-in.o :=  /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/misc/mediatek/imgsensor/src/mt6580/camera_hw/built-in.o drivers/misc/mediatek/imgsensor/src/mt6580/camera_hw/kd_camera_hw.o 

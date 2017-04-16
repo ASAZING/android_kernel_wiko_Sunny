@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/irq/built-in.o :=  /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/misc/mediatek/irq/built-in.o drivers/misc/mediatek/irq/mt6580/built-in.o 

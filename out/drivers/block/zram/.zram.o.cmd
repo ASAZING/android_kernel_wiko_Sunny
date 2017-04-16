@@ -1,0 +1,1 @@
+cmd_drivers/block/zram/zram.o := /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/block/zram/zram.o drivers/block/zram/zcomp_lzo.o drivers/block/zram/zcomp.o drivers/block/zram/zram_drv.o drivers/block/zram/zcomp_lz4k.o 

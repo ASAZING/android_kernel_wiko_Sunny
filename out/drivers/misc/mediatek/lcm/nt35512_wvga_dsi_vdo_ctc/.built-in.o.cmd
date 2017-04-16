@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/lcm/nt35512_wvga_dsi_vdo_ctc/built-in.o :=  /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/misc/mediatek/lcm/nt35512_wvga_dsi_vdo_ctc/built-in.o drivers/misc/mediatek/lcm/nt35512_wvga_dsi_vdo_ctc/nt35512_wvga_dsi_vdo_ctc.o 

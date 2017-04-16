@@ -1,0 +1,1 @@
+cmd_drivers/misc/mediatek/emi_mpu/built-in.o :=  /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/misc/mediatek/emi_mpu/built-in.o drivers/misc/mediatek/emi_mpu/emi_reg_rw.o drivers/misc/mediatek/emi_mpu/mt6580/built-in.o 
