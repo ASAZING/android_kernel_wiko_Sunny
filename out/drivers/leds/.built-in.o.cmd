@@ -1,1 +1,0 @@
-cmd_drivers/leds/built-in.o :=  /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/leds/built-in.o drivers/leds/led-core.o drivers/leds/led-class.o drivers/leds/led-triggers.o drivers/leds/trigger/built-in.o 

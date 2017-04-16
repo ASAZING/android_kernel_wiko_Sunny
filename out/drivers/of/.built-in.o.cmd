@@ -1,1 +1,0 @@
-cmd_drivers/of/built-in.o :=  /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/of/built-in.o drivers/of/base.o drivers/of/device.o drivers/of/platform.o drivers/of/fdt.o drivers/of/fdt_address.o drivers/of/address.o drivers/of/irq.o drivers/of/of_net.o drivers/of/of_mtd.o drivers/of/of_reserved_mem.o 

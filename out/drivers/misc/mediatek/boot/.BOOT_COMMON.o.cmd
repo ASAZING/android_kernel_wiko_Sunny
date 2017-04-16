@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/boot/BOOT_COMMON.o := /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/misc/mediatek/boot/BOOT_COMMON.o drivers/misc/mediatek/boot/mt_boot_common.o drivers/misc/mediatek/boot/mt_boot.o 

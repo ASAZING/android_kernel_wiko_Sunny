@@ -1,7 +1,0 @@
-v2500.o: ../arch/arm/boot/dts/v2500.dts ../arch/arm/boot/dts/mt6580.dtsi \
- ../arch/arm/boot/dts/include/dt-bindings/interrupt-controller/arm-gic.h \
- ../arch/arm/boot/dts/include/dt-bindings/interrupt-controller/irq.h \
- ../arch/arm/boot/dts/mt6580-pinfunc.h \
- ../arch/arm/boot/dts/include/dt-bindings/pinctrl/mt65xx.h \
- ../arch/arm/boot/dts/include/dt-bindings/mmc/mt6580-msdc.h \
- arch/arm/boot/dts/cust.dtsi ../arch/arm/boot/dts/trusty.dtsi

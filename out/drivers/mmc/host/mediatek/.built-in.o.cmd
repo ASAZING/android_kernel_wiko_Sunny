@@ -1,1 +1,0 @@
-cmd_drivers/mmc/host/mediatek/built-in.o :=  /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/mmc/host/mediatek/built-in.o drivers/mmc/host/mediatek/mt6580/built-in.o drivers/mmc/host/mediatek/emmc_rpmb.o 

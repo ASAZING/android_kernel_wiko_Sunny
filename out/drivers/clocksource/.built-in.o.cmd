@@ -1,1 +1,0 @@
-cmd_drivers/clocksource/built-in.o :=  /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/clocksource/built-in.o drivers/clocksource/clksrc-of.o drivers/clocksource/dummy_timer.o 

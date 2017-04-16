@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/irtx/built-in.o :=  rm -f drivers/misc/mediatek/irtx/built-in.o; /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ar rcsD drivers/misc/mediatek/irtx/built-in.o

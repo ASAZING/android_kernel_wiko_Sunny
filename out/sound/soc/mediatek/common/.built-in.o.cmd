@@ -1,1 +1,0 @@
-cmd_sound/soc/mediatek/common/built-in.o :=  /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o sound/soc/mediatek/common/built-in.o sound/soc/mediatek/common/auddrv_devtree_parser.o sound/soc/mediatek/common/auddrv_underflow_mach.o 

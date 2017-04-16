@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/cameraisp/src/built-in.o :=  /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/misc/mediatek/cameraisp/src/built-in.o drivers/misc/mediatek/cameraisp/src/cameraisp_dummy.o drivers/misc/mediatek/cameraisp/src/mt6580/built-in.o 

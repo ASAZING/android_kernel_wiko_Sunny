@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/devinfo/built-in.o :=  /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/misc/mediatek/devinfo/built-in.o drivers/misc/mediatek/devinfo/devinfo.o drivers/misc/mediatek/devinfo/devinfosys.o 

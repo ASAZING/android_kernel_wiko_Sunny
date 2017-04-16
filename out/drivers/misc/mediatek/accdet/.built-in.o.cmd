@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/accdet/built-in.o :=  /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/misc/mediatek/accdet/built-in.o drivers/misc/mediatek/accdet/accdet_drv.o drivers/misc/mediatek/accdet/mt6580/built-in.o 

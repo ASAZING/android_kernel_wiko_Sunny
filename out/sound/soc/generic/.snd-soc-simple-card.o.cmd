@@ -1,1 +1,0 @@
-cmd_sound/soc/generic/snd-soc-simple-card.o := /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o sound/soc/generic/snd-soc-simple-card.o sound/soc/generic/simple-card.o 

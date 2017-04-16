@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/cirq/built-in.o :=  /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/misc/mediatek/cirq/built-in.o drivers/misc/mediatek/cirq/mt_sys_cirq.o 

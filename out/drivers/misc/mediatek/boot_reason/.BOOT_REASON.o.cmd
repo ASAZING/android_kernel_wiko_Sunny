@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/boot_reason/BOOT_REASON.o := /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/misc/mediatek/boot_reason/BOOT_REASON.o drivers/misc/mediatek/boot_reason/mt_boot_reason.o 

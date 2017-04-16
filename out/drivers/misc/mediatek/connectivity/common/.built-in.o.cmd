@@ -1,1 +1,0 @@
-cmd_drivers/misc/mediatek/connectivity/common/built-in.o :=  /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/misc/mediatek/connectivity/common/built-in.o drivers/misc/mediatek/connectivity/common/conn_soc/built-in.o drivers/misc/mediatek/connectivity/common/common_detect/built-in.o 

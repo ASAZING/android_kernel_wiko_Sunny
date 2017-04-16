@@ -1,1 +1,0 @@
-cmd_drivers/input/touchscreen/mediatek/ektf2k_v2500/built-in.o :=  /home/malcolmx/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-ld -EL    -r -o drivers/input/touchscreen/mediatek/ektf2k_v2500/built-in.o drivers/input/touchscreen/mediatek/ektf2k_v2500/ektf2k_driver.o 
