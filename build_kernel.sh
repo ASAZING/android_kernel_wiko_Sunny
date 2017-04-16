@@ -1,8 +1,27 @@
 #!/bin/bash
 
-export CROSS_COMPILE=~/android/toolchain/
+#Mysteryagr
+#Compile kernel with a build script to make things simple
+mkdir -p out
 
-export ARCH=arm
-mkdir out
-make O=out TARGET_ARCH=arm  v2500_defconfig
-make O=out TARGET_ARCH=arm
+#Change toolchain path before using build script!
+export CROSS_COMPILE=~/Android/toolchain/linaro-arm-eabi-4.8/bin/arm-eabi-
+
+#Enable when needed:
+export USE_CCACHE=1
+
+export ARCH=arm ARCH_MTK_PLATFORM=mt6580
+
+#Enable only when needed:
+#make clean
+#make mrproper
+#Or simply delete out directory to clean source
+
+#Defconfig for Wiko sunny 
+make -C $PWD O=$PWD/out ARCH=arm v2500_defconfig
+
+#Defconfig for Infinix Hot 2
+#make -C $PWD O=$PWD/out ARCH=arm x510_defconfig
+
+#Edit the number according to the number of CPUs you have in your PC:
+make -j4 -C $PWD O=$PWD/out ARCH=arm
